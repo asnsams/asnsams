@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I am a 4th year student at Bangladesh University of Engineering and Technology pursuing B.E. in EEE. I love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
 
 
 
@@ -37,7 +37,7 @@
 
 ## To know more about projects, research works and co-curricular activities
 <p align="center">
-  <a href="https://asnsams.github.io/Projects.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510058-a79b90b8-132a-42ab-a21d-23a9632e4214.png)" alt="Projects"/></a>
-  <a href="https://asnsams.github.io/Research-Works.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510133-51099a3f-cd9f-4004-8029-2154f662b331.png)" alt="Research"/></a>
-  <a href="https://asnsams.github.io/Co-curricular.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510415-49c795cf-0aa2-4fc7-90ba-cd0de1e3c937.png)" alt="Co-curricular"/></a>
+  <a href="https://asnsams.github.io/Projects.html"><img src="https://drive.google.com/file/d/11Hna7xx988cgTBmLB-GSkFzLinSdqAAY/view?usp=sharing" alt="Projects"/></a>
+  <a href="https://asnsams.github.io/Research-Works.html"><img src="https://drive.google.com/file/d/1p-9HeGGceS3sPHzNceeZf2p7Ljg4EJ8c/view?usp=sharing" alt="Research"/></a>
+  <a href="https://asnsams.github.io/Co-curricular.html"><img src="https://drive.google.com/file/d/1d5_V6HnliWzud36pYj3vlu892FKqVdPm/view?usp=sharing" alt="Co-curricular"/></a>
 </p>
