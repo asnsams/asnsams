@@ -30,7 +30,14 @@
   &emsp;
 </p>
 
-## For details review of projects and research works 
+## To know more about me click on the logo
 <p align="center">
   <a href="https://asnsams.github.io/"><img src="https://asnsams.github.io/images/logo.jpg" alt="Website"/></a>
+</p>
+
+## To know more about projects, research works and co-curricular activities
+<p align="center">
+  <a href="https://asnsams.github.io/Projects.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510058-a79b90b8-132a-42ab-a21d-23a9632e4214.png)" alt="Projects"/></a>
+  <a href="https://asnsams.github.io/Research-Works.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510133-51099a3f-cd9f-4004-8029-2154f662b331.png)" alt="Research"/></a>
+  <a href="https://asnsams.github.io/Co-curricular.html"><img src="![image](https://user-images.githubusercontent.com/31789887/128510415-49c795cf-0aa2-4fc7-90ba-cd0de1e3c937.png)" alt="Co-curricular"/></a>
 </p>
