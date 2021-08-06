@@ -37,7 +37,9 @@
 
 ## To know more about projects, research works and co-curricular activities
 <p align="center">
-  <a href="https://asnsams.github.io/Projects.html"><img src="https://drive.google.com/file/d/11Hna7xx988cgTBmLB-GSkFzLinSdqAAY/view?usp=sharing" alt="Projects"/></a>
-  <a href="https://asnsams.github.io/Research-Works.html"><img src="https://drive.google.com/file/d/1p-9HeGGceS3sPHzNceeZf2p7Ljg4EJ8c/view?usp=sharing" alt="Research"/></a>
-  <a href="https://asnsams.github.io/Co-curricular.html"><img src="https://drive.google.com/file/d/1d5_V6HnliWzud36pYj3vlu892FKqVdPm/view?usp=sharing" alt="Co-curricular"/></a>
+  <a href="https://asnsams.github.io/Projects.html">Project</a> 
+  &nbsp
+  <a href="https://asnsams.github.io/Research-Works.html">Research</a>
+  &nbsp
+  <a href="https://asnsams.github.io/Co-curricular.html">Co-curricular</a>
 </p>
