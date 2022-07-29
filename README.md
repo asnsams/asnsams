@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+and+Electronics+Engineering;DS%20|%20AI%20|%20ML%20Enthusiast;Travel%20Enthusiast%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a 4th year student at Bangladesh University of Engineering and Technology pursuing B.E. in EEE. I love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I am an engineering graduate from Electrical and Electronics Engineering of Bangladesh University of Engineering and Technology. I love to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 
 
