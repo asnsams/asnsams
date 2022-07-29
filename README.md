@@ -34,7 +34,7 @@
   &emsp;
 </p>
 
-## To know more about me click on the logo
+## Know more about me from my website
 <p align="center">
   <a href="https://asnsams.github.io/"><img src="https://asnsams.github.io/images/logo.jpg" alt="Website"/></a>
 </p>
