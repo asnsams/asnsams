@@ -5,7 +5,7 @@
 
 <h1 align="center">Hello, I'm Ataher Sams <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+and+Electronics+Engineering;DS%20|%20AI%20|%20ML%20Enthusiast;Travel%20Enthusiast%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+and+Electronics+Engineering;Wireless%20|%20AI%20|%20ISAC|Travel%20Enthusiast%20&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am an engineering graduate from Electrical and Electronics Engineering of Bangladesh University of Engineering and Technology. I love to take up new challenges and learn new skills. Right now, I am a Ph.D. student at University of Illinois Chiacgo..</h4>
@@ -13,9 +13,8 @@
 
 Link to Repo: 
 <p align="center">
-  <a href="[https://asnsams.github.io/Academic-Projects.html](https://github.com/asnsams?tab=repositories)"> REPOSITORIES </a> 
-<p>
-
+  <a href="https://github.com/asnsams?tab=repositories">Project</a> 
+<p> 
 
 
 
