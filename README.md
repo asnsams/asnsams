@@ -41,9 +41,9 @@
 
 ## To know more about projects, research works and co-curricular activities
 <p align="center">
-  <a href="https://asnsams.github.io/Projects.html">Project</a> 
+  <a href="https://asnsams.github.io/Academic-Projects.html">Project</a> 
   &nbsp
-  <a href="https://asnsams.github.io/Research-Works.html">Research</a>
+  <a href="https://asnsams.github.io/Publications.html">Research</a>
   &nbsp
-  <a href="https://asnsams.github.io/Co-curricular.html">Co-curricular</a>
+  <a href="https://asnsams.github.io/Dataset-and-Tools.html">Dataset</a>
 </p>
