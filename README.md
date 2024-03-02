@@ -13,9 +13,9 @@
 
 Link to Repo: 
 <p align="center">
-  <a href="[https://asnsams.github.io/](https://github.com/asnsams?tab=repositories)"><img src="https://asnsams.github.io/images/logo.jpg" alt="Repo"/></a>
-</p>
-https://github.com/asnsams?tab=repositories
+  <a href="[https://asnsams.github.io/Academic-Projects.html](https://github.com/asnsams?tab=repositories)">REPOSITORIES/a> 
+<p>
+
 
 
 
