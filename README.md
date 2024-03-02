@@ -13,7 +13,7 @@
 
 Link to Repo: 
 <p align="center">
-  <a href="[https://asnsams.github.io/Academic-Projects.html](https://github.com/asnsams?tab=repositories)">REPOSITORIES/a> 
+  <a href="[https://asnsams.github.io/Academic-Projects.html](https://github.com/asnsams?tab=repositories)">REPOSITORIES /a> 
 <p>
 
 
