@@ -12,10 +12,12 @@ I am an engineering graduate from Electrical and Electronics Engineering at **Ba
 
 </div>
 
-## 🌐 Know more about me from my website
+## 🌐 Know More About Me
 
 <div align="center">
-  ### [Visit My Website](https://asnsams.github.io/)
+
+### [Visit My Website](https://asnsams.github.io/)
+
 </div>
 
 ## 🚀 Explore My Work
