@@ -15,7 +15,7 @@ I am an engineering graduate from Electrical and Electronics Engineering at **Ba
 ## 🌐 Know more about me from my website
 
 <div align="center">
-  <a href="https://asnsams.github.io/"><img src="https://asnsams.github.io/images/logo.jpg" alt="Website" width="200" style="border-radius:50%;"/></a>
+  ### [Visit My Website](https://asnsams.github.io/)
 </div>
 
 ## 🚀 Explore My Work
