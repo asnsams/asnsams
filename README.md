@@ -4,11 +4,11 @@
 
 <div align="center">
 
-# Hello, I'm Ataher Sams ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hello, I'm Ataher Sams![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
-I am an engineering graduate from Electrical and Electronics Engineering at **Bangladesh University of Engineering and Technology**. Passionate about tackling new challenges and eager to learn new skills, I am currently pursuing my Ph.D. at **University of Illinois Chicago**.
+I am an engineering graduate from **Bangladesh University of Engineering and Technology**. Passionate about tackling new challenges and eager to learn new skills, I am currently pursuing my Ph.D. at **University of Illinois Chicago** on Wireless Communication. 
 
 </div>
 
