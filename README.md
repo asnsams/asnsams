@@ -32,7 +32,7 @@ I am an engineering graduate from **Bangladesh University of Engineering and Tec
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ataher-sams/) or visit my [GitHub](https://github.com/asnsams) for more insights into my projects and research work.
+Feel free to mail me at asnsamsniloy(at)gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/ataher-sams/) or visit my [GitHub](https://github.com/asnsams) for more insights into my projects and research work.
 
 ---
 
