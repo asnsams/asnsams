@@ -8,7 +8,7 @@
 
 ---
 
-I am an engineering graduate from **Bangladesh University of Engineering and Technology**. Passionate about tackling new challenges and eager to learn new skills, I am currently pursuing my Ph.D. at **University of Illinois Chicago** on Wireless Communication. 
+Passionate about tackling new challenges and eager to learn new skills, I am currently pursuing my Ph.D. at **University of Illinois Chicago** on Wireless Communication. 
 
 </div>
 
