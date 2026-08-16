@@ -6,8 +6,6 @@
 Ph.D. Student · Electrical & Computer Engineering · UIC
 </p>
 
-<img src="./assets/signal.svg" width="420" alt="signal animation">
-
 <p>
 I work on problems at the intersection of
 <b>wireless systems</b>, <b>sensing</b>, <b>signal processing</b>,
