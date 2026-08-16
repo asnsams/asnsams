@@ -21,9 +21,9 @@ Currently interested in the broad domain of ISAC, mm-wave/FR3 sensing.
 <p>
 <a href="https://asnsams.github.io">Website</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
+<a href="[YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?user=h0P-8HcAAAAJ&hl=en&oi=ao)">Google Scholar</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+<a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/ataher-sams/)">LinkedIn</a>
 </p>
 
 </div>
