@@ -13,8 +13,7 @@ and <b>machine learning</b>.
 </p>
 
 <p>
-Currently interested in mmWave sensing, radar, multi-band systems,
-and learning from physical signals.
+Currently interested in the broad domain of ISAC, mm-wave/FR3 sensing.
 </p>
 
 <br>
