@@ -1,43 +1,62 @@
-<head>
-  <meta name="google-site-verification" content="f1kc537pLQWwNrtbOFQzxqRoQa5kd11JfufzfnZjf-w" />
-</head>
-
 <div align="center">
 
-# Hello, I'm Ataher Sams![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<h1>Ataher Sams</h1>
 
----
+<p>
+Ph.D. Student · Electrical & Computer Engineering · UIC
+</p>
 
-Passionate about tackling new challenges and eager to learn new skills, I am currently pursuing my Ph.D. at **University of Illinois Chicago** on Wireless Communication. 
+<img src="./assets/signal.svg" width="420" alt="signal animation">
+
+<p>
+I work on problems at the intersection of
+<b>wireless systems</b>, <b>sensing</b>, <b>signal processing</b>,
+and <b>machine learning</b>.
+</p>
+
+<p>
+Currently interested in mmWave sensing, radar, multi-band systems,
+and learning from physical signals.
+</p>
+
+<br>
+
+<p>
+<a href="https://asnsams.github.io">Website</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="YOUR_GOOGLE_SCHOLAR_LINK">Google Scholar</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+</p>
 
 </div>
 
-## 🌐 Know More About Me
+<br>
 
-<div align="center">
+<h3>Things I work on</h3>
 
-### [Visit My Website](https://asnsams.github.io/)
+<p>
+📡 Wireless sensing &nbsp;·&nbsp;
+📶 mmWave / multi-band systems &nbsp;·&nbsp;
+📐 Signal processing
+</p>
 
-</div>
+<p>
+🧠 Machine learning &nbsp;·&nbsp;
+📊 Information theory &nbsp;·&nbsp;
+🔍 Interpretable AI
+</p>
 
-## 🚀 Explore My Work
+<br>
 
-<div align="center">
+<h3>Projects</h3>
 
-[Projects](https://asnsams.github.io/Academic-Projects.html) · 
-[Research](https://asnsams.github.io/Publications.html) · 
-[Datasets](https://asnsams.github.io/Dataset-and-Tools.html)
+<p>
+This GitHub is a mix of research code, experiments, datasets,
+and small things I build along the way.
+</p>
 
-</div>
-
-## 📫 How to Reach Me
-
-Feel free to mail me at asnsamsniloy(at)gmail.com, or connect with me on [LinkedIn](https://www.linkedin.com/in/ataher-sams/) or visit my [GitHub](https://github.com/asnsams) for more insights into my projects and research work.
-
----
-
-<div align="center">
-
-Thank you for visiting my profile! 🌟
-
-</div>
+<p>
+For publications and research details, visit
+<a href="https://asnsams.github.io"><b>my website →</b></a>
+</p>
