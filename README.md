@@ -32,8 +32,6 @@ Currently interested in the broad domain of ISAC, mm-wave/FR3 sensing.
 
 <h3>Things I work on</h3>
 
-<h3>Things I work on</h3>
-
 <p>
 ISAC · Wireless sensing · FR3 / multi-band systems ·
 Reconfigurable antennas · Signal processing · Machine Learning
